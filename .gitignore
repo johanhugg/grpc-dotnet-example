@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+*.user
+*.lock.json
+TestResults/
+CodeCoverageReport/
+.vscode/
+.idea/
+docker-publish/

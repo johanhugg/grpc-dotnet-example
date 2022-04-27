@@ -1,0 +1,35 @@
+2022/04/26 16:11:43 Rlimits for file descriptors set to {Current = 8500, Max = 9223372036854775807}
+2022/04/26 16:11:43 Listening on 127.0.0.1:3307 for storytel-148812:europe-west1:bokilur-sql
+2022/04/26 16:11:43 Ready for new connections
+2022/04/26 16:11:43 Generated RSA key in 41.248458ms
+2022/04/26 17:27:21 New connection for "storytel-148812:europe-west1:bokilur-sql"
+2022/04/26 17:27:21 refreshing ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql
+2022/04/26 17:27:22 Scheduling refresh of ephemeral certificate in 54m59.23411s
+2022/04/26 17:27:24 New connection for "storytel-148812:europe-west1:bokilur-sql"
+2022/04/26 17:28:15 Client closed local connection on 127.0.0.1:3307
+2022/04/26 19:23:07 Client closed local connection on 127.0.0.1:3307
+2022/04/26 19:36:01 ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql will expire soon, refreshing now.
+2022/04/26 19:36:01 refreshing ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql
+2022/04/26 19:36:02 Scheduling refresh of ephemeral certificate in 54m59.593504s
+2022/04/26 20:31:02 ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql will expire soon, refreshing now.
+2022/04/26 20:31:02 refreshing ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql
+2022/04/26 20:31:02 Scheduling refresh of ephemeral certificate in 54m59.522881s
+2022/04/26 21:26:01 ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql will expire soon, refreshing now.
+2022/04/27 10:07:51 New connection for "storytel-148812:europe-west1:bokilur-sql"
+2022/04/27 10:07:51 refreshing ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql
+2022/04/27 10:07:52 Reading data from storytel-148812:europe-west1:bokilur-sql had error: remote error: tls: bad certificate
+2022/04/27 10:07:53 Scheduling refresh of ephemeral certificate in 54m59.812511s
+2022/04/27 10:07:54 New connection for "storytel-148812:europe-west1:bokilur-sql"
+2022/04/27 11:02:53 ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql will expire soon, refreshing now.
+2022/04/27 11:02:53 refreshing ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql
+2022/04/27 11:02:53 Scheduling refresh of ephemeral certificate in 54m59.551616s
+2022/04/27 11:57:52 ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql will expire soon, refreshing now.
+2022/04/27 11:57:53 refreshing ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql
+2022/04/27 11:57:54 Scheduling refresh of ephemeral certificate in 54m58.944302s
+2022/04/27 12:52:52 ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql will expire soon, refreshing now.
+2022/04/27 13:34:13 New connection for "storytel-148812:europe-west1:bokilur-sql"
+2022/04/27 13:34:13 refreshing ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql
+2022/04/27 13:34:13 Reading data from storytel-148812:europe-west1:bokilur-sql had error: remote error: tls: bad certificate
+2022/04/27 13:34:14 Scheduling refresh of ephemeral certificate in 54m59.614919s
+2022/04/27 13:34:14 New connection for "storytel-148812:europe-west1:bokilur-sql"
+2022/04/27 14:29:13 ephemeral certificate for instance storytel-148812:europe-west1:bokilur-sql will expire soon, refreshing now.
